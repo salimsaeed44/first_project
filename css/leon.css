@@ -66,6 +66,7 @@ body {
 @media (max-width: 767px) {
     .special-heading + p {
         margin: -20px;
+        font-size: 18px;
     }
 }
  /* End Global Rules   */
